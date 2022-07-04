@@ -1,0 +1,13 @@
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\bin\Debug\Management_Store.exe.config
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\bin\Debug\Management_Store.exe
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\bin\Debug\Management_Store.pdb
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.csproj.AssemblyReference.cache
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.Form1.resources
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.Properties.Resources.resources
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.csproj.GenerateResource.cache
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.csproj.CoreCompileInputs.cache
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.exe
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.pdb
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.Brand.resources
+C:\Users\pusta\OneDrive\Desktop\Store_Management\Management_Store\Management_Store\obj\Debug\Management_Store.BrandModule.resources
